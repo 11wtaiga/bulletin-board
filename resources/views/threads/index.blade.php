@@ -18,7 +18,7 @@
     <body>
         <!--ログイン-->
         <header class="posts mt-4 mb-4">
-            <h1>Blog Name</h1>
+            <h1>掲示板</h1>
             <a href="{{ route('login') }}" class="btn btn-primary">ログイン</a>
         </header>
         <!--検索-->
